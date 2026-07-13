@@ -1,0 +1,734 @@
+{
+  "library": "ganjo",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/ganjo",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/ganjo-opus-48",
+  "branch": "main",
+  "fileCount": 61,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/",
+  "files": [
+    {
+      "file": "Banjo_Common_-_A3.opus",
+      "name": "Banjo_Common_-_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_A3.opus",
+      "size": 6252,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A3_2.opus",
+      "name": "Banjo_Common_-_A3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_A3_2.opus",
+      "size": 6712,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A4.opus",
+      "name": "Banjo_Common_-_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_A4.opus",
+      "size": 3727,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A4_2.opus",
+      "name": "Banjo_Common_-_A4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_A4_2.opus",
+      "size": 4413,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A4_3.opus",
+      "name": "Banjo_Common_-_A4_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_A4_3.opus",
+      "size": 7197,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As3.opus",
+      "name": "Banjo_Common_-_As3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As3.opus",
+      "size": 6309,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4.opus",
+      "name": "Banjo_Common_-_As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4.opus",
+      "size": 5702,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_10.opus",
+      "name": "Banjo_Common_-_As4_10.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_10.opus",
+      "size": 9641,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_11.opus",
+      "name": "Banjo_Common_-_As4_11.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_11.opus",
+      "size": 4071,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_2.opus",
+      "name": "Banjo_Common_-_As4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_2.opus",
+      "size": 7410,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_3.opus",
+      "name": "Banjo_Common_-_As4_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_3.opus",
+      "size": 3001,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_4.opus",
+      "name": "Banjo_Common_-_As4_4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_4.opus",
+      "size": 4333,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_5.opus",
+      "name": "Banjo_Common_-_As4_5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_5.opus",
+      "size": 6297,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_6.opus",
+      "name": "Banjo_Common_-_As4_6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_6.opus",
+      "size": 5554,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_7.opus",
+      "name": "Banjo_Common_-_As4_7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_7.opus",
+      "size": 9266,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_8.opus",
+      "name": "Banjo_Common_-_As4_8.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_8.opus",
+      "size": 9499,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_9.opus",
+      "name": "Banjo_Common_-_As4_9.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As4_9.opus",
+      "size": 10332,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As5.opus",
+      "name": "Banjo_Common_-_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_As5.opus",
+      "size": 9798,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B3.opus",
+      "name": "Banjo_Common_-_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B3.opus",
+      "size": 5802,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4.opus",
+      "name": "Banjo_Common_-_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B4.opus",
+      "size": 4493,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_2.opus",
+      "name": "Banjo_Common_-_B4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B4_2.opus",
+      "size": 3709,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_3.opus",
+      "name": "Banjo_Common_-_B4_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B4_3.opus",
+      "size": 4532,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_4.opus",
+      "name": "Banjo_Common_-_B4_4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B4_4.opus",
+      "size": 6817,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_5.opus",
+      "name": "Banjo_Common_-_B4_5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B4_5.opus",
+      "size": 6835,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B5.opus",
+      "name": "Banjo_Common_-_B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_B5.opus",
+      "size": 6289,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_C5.opus",
+      "name": "Banjo_Common_-_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_C5.opus",
+      "size": 3315,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Cs4.opus",
+      "name": "Banjo_Common_-_Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Cs4.opus",
+      "size": 7101,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Cs4_2.opus",
+      "name": "Banjo_Common_-_Cs4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Cs4_2.opus",
+      "size": 6987,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Cs5.opus",
+      "name": "Banjo_Common_-_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Cs5.opus",
+      "size": 4262,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_D4.opus",
+      "name": "Banjo_Common_-_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_D4.opus",
+      "size": 7743,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds3.opus",
+      "name": "Banjo_Common_-_Ds3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Ds3.opus",
+      "size": 7531,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds4.opus",
+      "name": "Banjo_Common_-_Ds4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Ds4.opus",
+      "size": 7168,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds5.opus",
+      "name": "Banjo_Common_-_Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Ds5.opus",
+      "size": 11096,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds5_2.opus",
+      "name": "Banjo_Common_-_Ds5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Ds5_2.opus",
+      "size": 10833,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_E3.opus",
+      "name": "Banjo_Common_-_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_E3.opus",
+      "size": 4307,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_E4.opus",
+      "name": "Banjo_Common_-_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_E4.opus",
+      "size": 5448,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_F3.opus",
+      "name": "Banjo_Common_-_F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_F3.opus",
+      "size": 5453,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_F4.opus",
+      "name": "Banjo_Common_-_F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_F4.opus",
+      "size": 6730,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs3.opus",
+      "name": "Banjo_Common_-_Fs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs3.opus",
+      "size": 10740,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs3_2.opus",
+      "name": "Banjo_Common_-_Fs3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs3_2.opus",
+      "size": 10181,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4.opus",
+      "name": "Banjo_Common_-_Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4.opus",
+      "size": 8847,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_2.opus",
+      "name": "Banjo_Common_-_Fs4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4_2.opus",
+      "size": 9249,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_3.opus",
+      "name": "Banjo_Common_-_Fs4_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4_3.opus",
+      "size": 4223,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_4.opus",
+      "name": "Banjo_Common_-_Fs4_4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4_4.opus",
+      "size": 7411,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_5.opus",
+      "name": "Banjo_Common_-_Fs4_5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4_5.opus",
+      "size": 8488,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_6.opus",
+      "name": "Banjo_Common_-_Fs4_6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4_6.opus",
+      "size": 10626,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_7.opus",
+      "name": "Banjo_Common_-_Fs4_7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Fs4_7.opus",
+      "size": 7902,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G3.opus",
+      "name": "Banjo_Common_-_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_G3.opus",
+      "size": 5238,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G4.opus",
+      "name": "Banjo_Common_-_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_G4.opus",
+      "size": 6102,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G4_2.opus",
+      "name": "Banjo_Common_-_G4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_G4_2.opus",
+      "size": 3941,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G5.opus",
+      "name": "Banjo_Common_-_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_G5.opus",
+      "size": 3817,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs3.opus",
+      "name": "Banjo_Common_-_Gs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs3.opus",
+      "size": 7222,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs3_2.opus",
+      "name": "Banjo_Common_-_Gs3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs3_2.opus",
+      "size": 8489,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4.opus",
+      "name": "Banjo_Common_-_Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs4.opus",
+      "size": 6394,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_2.opus",
+      "name": "Banjo_Common_-_Gs4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs4_2.opus",
+      "size": 3480,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_3.opus",
+      "name": "Banjo_Common_-_Gs4_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs4_3.opus",
+      "size": 4191,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_4.opus",
+      "name": "Banjo_Common_-_Gs4_4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs4_4.opus",
+      "size": 8617,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_5.opus",
+      "name": "Banjo_Common_-_Gs4_5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs4_5.opus",
+      "size": 9792,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_6.opus",
+      "name": "Banjo_Common_-_Gs4_6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs4_6.opus",
+      "size": 9484,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs5.opus",
+      "name": "Banjo_Common_-_Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs5.opus",
+      "size": 4146,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs5_2.opus",
+      "name": "Banjo_Common_-_Gs5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-opus-48/main/Banjo_Common_-_Gs5_2.opus",
+      "size": 10686,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "52": [
+      "Banjo_Common_-_E3.opus"
+    ],
+    "53": [
+      "Banjo_Common_-_F3.opus"
+    ],
+    "55": [
+      "Banjo_Common_-_G3.opus"
+    ],
+    "57": [
+      "Banjo_Common_-_A3.opus",
+      "Banjo_Common_-_A3_2.opus"
+    ],
+    "59": [
+      "Banjo_Common_-_B3.opus"
+    ],
+    "62": [
+      "Banjo_Common_-_D4.opus"
+    ],
+    "64": [
+      "Banjo_Common_-_E4.opus"
+    ],
+    "65": [
+      "Banjo_Common_-_F4.opus"
+    ],
+    "67": [
+      "Banjo_Common_-_G4.opus",
+      "Banjo_Common_-_G4_2.opus"
+    ],
+    "69": [
+      "Banjo_Common_-_A4.opus",
+      "Banjo_Common_-_A4_2.opus",
+      "Banjo_Common_-_A4_3.opus"
+    ],
+    "71": [
+      "Banjo_Common_-_B4.opus",
+      "Banjo_Common_-_B4_2.opus",
+      "Banjo_Common_-_B4_3.opus",
+      "Banjo_Common_-_B4_4.opus",
+      "Banjo_Common_-_B4_5.opus"
+    ],
+    "72": [
+      "Banjo_Common_-_C5.opus"
+    ],
+    "79": [
+      "Banjo_Common_-_G5.opus"
+    ],
+    "83": [
+      "Banjo_Common_-_B5.opus"
+    ]
+  }
+}
